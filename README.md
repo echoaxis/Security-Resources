@@ -5,7 +5,7 @@
 [Awesome Pentest](https://github.com/enaqx/awesome-pentest): Comprehensive list of security resrouces << go here first!
 
 ## CONs
-[BSides Canberra](https://www.bsidesau.com.au/) Cybernats [CTF](https://www.bsidesau.com.au/ctf.html) [source code](CyberNats https://gitlab.com/cybears/fall-of-cybeartron)
+[BSides Canberra](https://www.bsidesau.com.au/) Cybernats [CTF](https://www.bsidesau.com.au/ctf.html) [source code](https://gitlab.com/cybears/fall-of-cybeartron)
 
 ## Microsoft 
 [Windows 10 Debloat](https://github.com/Sycnex/Windows10Debloater) Script/Utility/Application to debloat Windows 10
