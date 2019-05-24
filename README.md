@@ -1,7 +1,10 @@
 # Security-Resources
 > My personal reference for security related resources
 
-## Best
+## ISO
+[ISO Downloads](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
+
+## Awesome
 [Awesome Pentest](https://github.com/enaqx/awesome-pentest): Comprehensive list of security resrouces << go here first!
 
 ## CONs
