@@ -5,7 +5,9 @@
 [ISO Downloads](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
 
 ## Awesome
-[Awesome Pentest](https://github.com/enaqx/awesome-pentest): Comprehensive list of security resrouces << go here first!
+[Awesome Pentest](https://github.com/enaqx/awesome-pentest): Comprehensive list of security resrouces
+[Awesome IoT](https://github.com/HQarroum/awesome-iot)
+[Awesome Home Automation OPEN](https://github.com/pfalcon/awesome-smarthome) 
 
 ## CONs
 [BSides Canberra](https://www.bsidesau.com.au/) Cybernats [CTF](https://www.bsidesau.com.au/ctf.html) [source code](https://gitlab.com/cybears/fall-of-cybeartron)
