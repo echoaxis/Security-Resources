@@ -6,7 +6,9 @@
 
 ## Awesome
 [Awesome Pentest](https://github.com/enaqx/awesome-pentest): Comprehensive list of security resrouces
+
 [Awesome IoT](https://github.com/HQarroum/awesome-iot)
+
 [Awesome Home Automation OPEN](https://github.com/pfalcon/awesome-smarthome) 
 
 ## CONs
