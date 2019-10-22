@@ -24,6 +24,8 @@
 
 [Selective Blocking](http://34.213.79.65/files/wikipedia.html): Block only the iframe with malicious content.
 
+[Test Safe Browsing](https://testsafebrowsing.appspot.com/)
+
 
 ## ISO
 [ISO Downloads](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
