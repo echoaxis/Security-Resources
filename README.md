@@ -2,14 +2,22 @@
 > My personal reference for security related resources
 
 ## Internet Sec
-[Node6 - policy violating content](http://node6.azurewebsites.net): links to eciar, pii, nsfw, etc]
+[Node6 - policy violating content](http://node6.azurewebsites.net): links to eciar, pii, nsfw, etc
+
 [Bad SSL](https://github.com/chromium/badssl.com)
+
 [SSL Labs](https://www.ssllabs.com/ssltest/viewMyClient.html)
+
 [Cookie Stealing XSS](https://briandeitch.com/cookiestealer/index.html)
+
 [Ecair x5 zip](http://34.213.79.65/files/eicar_5.zip)
+
 [Malicious pdf](http://34.213.79.65/files/test.pdf)
+
 [Malicious jpg](http://34.213.79.65/files/test.jpg)
+
 [Malicious xls](http://34.213.79.65/files/REPRO-CVE-2009-0561.xls)
+
 [Malicious 250mb file](https://drive.google.com/open?id=1nVtsGNt5zWMg5aNvO84fWjPzRt59OqZu): Many cloud storage vendors do not perform AV scanning on large files.  Google Drive is 100 MB.
 
 
