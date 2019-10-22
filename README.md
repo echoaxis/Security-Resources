@@ -4,6 +4,8 @@
 ## Internet Sec
 [Node6 - policy violating content](http://node6.azurewebsites.net): links to eciar, pii, nsfw, etc
 
+[DLP Test](dlp-test.tcp-udp.net): Awesome site, links to resources below 
+
 [Bad SSL](https://github.com/chromium/badssl.com)
 
 [SSL Labs](https://www.ssllabs.com/ssltest/viewMyClient.html)
@@ -19,6 +21,8 @@
 [Malicious xls](http://34.213.79.65/files/REPRO-CVE-2009-0561.xls)
 
 [Malicious 250mb file](https://drive.google.com/open?id=1nVtsGNt5zWMg5aNvO84fWjPzRt59OqZu): Many cloud storage vendors do not perform AV scanning on large files.  Google Drive is 100 MB.
+
+[Selective Blocking](http://34.213.79.65/files/wikipedia.html): Block only the iframe with malicious content.
 
 
 ## ISO
