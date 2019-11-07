@@ -4,7 +4,7 @@
 ## Internet Sec
 [Node6 - policy violating content](http://node6.azurewebsites.net): links to eciar, pii, nsfw, etc
 
-[DLP Test](dlp-test.tcp-udp.net): Awesome site, links to resources below 
+[DLP Test](http://dlp-test.tcp-udp.net): Awesome site, links to resources below 
 
 [Bad SSL](https://github.com/chromium/badssl.com)
 
