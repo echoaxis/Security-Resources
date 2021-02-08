@@ -4,7 +4,7 @@
 ## Internet Sec
 [Node6 - policy violating content](http://node6.azurewebsites.net): links to eciar, pii, nsfw, etc
 
-[DLP Test](http://dlp-test.tcp-udp.net): Awesome site, links to resources below 
+[DLP Test](http://dlp-test.tcp-udp.net)
 
 [Bad SSL](https://github.com/chromium/badssl.com)
 
@@ -31,7 +31,7 @@
 [ISO Downloads](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
 
 ## Awesome
-[Awesome Pentest](https://github.com/enaqx/awesome-pentest): Comprehensive list of security resrouces
+[Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 
 [Awesome IoT](https://github.com/HQarroum/awesome-iot)
 
@@ -41,10 +41,10 @@
 [BSides Canberra](https://www.bsidesau.com.au/) Cybernats [CTF](https://www.bsidesau.com.au/ctf.html) [source code](https://gitlab.com/cybears/fall-of-cybeartron)
 
 ## Microsoft 
-[Windows 10 Debloat](https://github.com/Sycnex/Windows10Debloater) Script/Utility/Application to debloat Windows 10
+[Windows 10 Debloat](https://github.com/Sycnex/Windows10Debloater)
 
 ## Recon
-[Shodan](https://www.shodan.io/) A list of internet connected devices.
+[Shodan](https://www.shodan.io/)
 
 [Censys](https://censys.io/) Public facing security visibility, solid api.
 
