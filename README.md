@@ -31,23 +31,12 @@
 [ISO Downloads](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
 
 ## Awesome
+[Awesome list of Awesome lists](https://github.com/sindresorhus/awesome)
+
 [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 
 [Awesome IoT](https://github.com/HQarroum/awesome-iot)
 
 [Awesome Home Automation OPEN](https://github.com/pfalcon/awesome-smarthome) 
-
-## CONs
-[BSides Canberra](https://www.bsidesau.com.au/) Cybernats [CTF](https://www.bsidesau.com.au/ctf.html) [source code](https://gitlab.com/cybears/fall-of-cybeartron)
-
-## Microsoft 
-[Windows 10 Debloat](https://github.com/Sycnex/Windows10Debloater)
-
-## Recon
-[Shodan](https://www.shodan.io/)
-
-[Censys](https://censys.io/) Public facing security visibility, solid api.
-
-[Binaryedge](https://app.binaryedge.io/) Login required, information gathered on Port and Service Exposure, Remote Desktops, DHT Activity, Dataleaks, HoneyPots etc.
 
 
