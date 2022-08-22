@@ -37,6 +37,7 @@
 
 [Awesome IoT](https://github.com/HQarroum/awesome-iot)
 
-[Awesome Home Automation OPEN](https://github.com/pfalcon/awesome-smarthome) 
+[Awesome Home Automation OPEN](https://github.com/pfalcon/awesome-smarthome)
 
+[The algorithms](https://the-algorithms.com/) on [GitHub](https://github.com/TheAlgorithms)
 
